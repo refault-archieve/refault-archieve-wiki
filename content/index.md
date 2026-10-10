@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Re:Fault Archive Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Selamat datang di Wiki. Silakan pilih karakter atau seri dari menu di samping.
