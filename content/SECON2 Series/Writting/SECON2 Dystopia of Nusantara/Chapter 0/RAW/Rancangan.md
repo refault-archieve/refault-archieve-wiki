@@ -1,0 +1,79 @@
+- Lampu mati , suasana hening dan cukup berdesakan hanya terdengar suara nafas satu  sama lain.meninggalkan ribuan glowstick yang masih menyala di antara kegelapan. Untuk beberapa detik tidak ada musik maupun suara dari panggung, hanya riuh penonton yang perlahan semakin besar ketika mereka menyadari bahwa pertunjukan akan segera dimulai.
+- "Freyaaaaa....." teriakan seorang pria muda yg ada di barisan paling depan, disusul dengan teriakaan nama yg sama "freya... freya... freya...."
+- Dum... suara hentakan keras 
+- sepatu boot ke lantai  diikuti dengan banyak suara langkah dari belakang
+- Kibaran siluet petir dari atas seakan menari dari bahaya, sosoknya yang ramping berrhenti sejenak untuk melihat ke belakang "Stray... larilah lebih cepat dasar bodoh"
+- "Di rencana tidak seperti ini sial..." sosok bermantel hitam itu terdengar menggerutu sambil mengarahkan jarinya kedepan dan melesat lebih cepat...
+- Suara dentuman kedua  keras terdengar sembari sebagian lampu menerangi siluet yg ada di tengah panggung, Seluruh panggung menyala. Freya berdiri di sana. Rambut merah pendeknya bergerak tertiup angin dari mesin panggung, sementara jaket hitam yang dikenakannya terbuka sedikit dan memperlihatkan inner putih di baliknya Di  sabuk kanannya terdapat megaphone berwarna biru neon yang menjadi ciri khasnya. 
+- Ia memandang ke seluruh arena tanpa mengatakan apa-apa. Senyum kecil perlahan muncul di wajahnya sebelum akhirnya ia mengangkat microphone.
+- "SUCKEEEER....kenapa kalian berisik sekali hah ?" , teriakan keras terdengar menyambar udara memeca kesunyian,   
+- "Whooooooaaaaa" Arena langsung meledak oleh sorakan., sambaran teriakan terdengar dari berbgai penjuru, secara  bersamaan lampu sorot menerangi venue dengan kilatan putih dan merah yang extravagant
+- “Bagus...” Musik mulai masuk. Ia mengangkat microphone ke udara. “Karena malam ini aku juga tidak berniat diam!”
+- Barisan glowstik bewarna merah menyala dengan waktu saling menunggu sehingga terasa seperti ombak merah di lautan manusia
+- Gadis itu menyeringai dengan gigi tajamnya, setetes keringat menetes perlahan dari pipi turun ke lehernya.
+- suara bass pertama menghentak keras lantai yg berada di bawah kaki, suara sythisyzer masuk dengan melodi iconic diikuti dengan teriakan manusia
+- Freya langsung berlari ke depan panggung dan lagu pembuka pun dimulai.
+- Suara synth memenuhi arena ketika ia mulai bergerak mengikuti irama. Tidak ada choreography yang terlalu rumit; sebagian besar gerakannya justru memanfaatkan ruang panggung yang luas, membuatnya terlihat bebas dan energik. Ia berpindah dari satu sisi ke sisi lainnya sambil sesekali mengarahkan microphone kepada penonton, membiarkan mereka menyanyikan bagian-bagian tertentu dari lagu
+- Ketika chorus pertama mendekat, Freya berhenti di ujung panggung dan mengangkat mic dan melesat ke kiri.
+- Kedua orang itu menukik ke kiri dan berlindung di balik tembok, suara bredetan senapan memenuhi udara
+- Stray menggeser plat besi di sebelah untuk menutupi koridor serangan sebelum keduanya melesat ke sisi lain "Lynx... kenapa kita tidak melawan saja,"
+- "Kita sudah mendapatkan yg kita mau... melawan hanya menambah resiko saja" jawabnya tanpa menoleh
+- beberapa dari pasukan sudah berhasil mengejar meloncati plat besi dan bersiap menembaki kedua orang tersebut, bersamaan Dua tentara muncul dari persimpangan di depan, stray langsung menghadang tangan ke arah sudut tembak untuk membuat dinding anti-vector (membuat peluru yg menghantam kehilangan kecepatan dan jatuh ke tanah)
+- di sisi lain lynx langsung menundukan badan dengan cepat dengan tanganya menyentuh tanah lalu melesat bagaikan suara secara tiba tiba ke belakang orang yg menghadang untuk mengantam tengkuk mereka sampai pingsan. 
+- freya menjatukan badan ke panggung sesuai koreografi tarinya, Freya menatap kedua sisi penonton tersebut secara bergantian, lalu menyipitkan mata seolah sedang menilai sebuah pertandingan.
+- gerakan lightstick beriringan dengan simponi amplifier mengelegar memecah hningnya malam, "hoy... hoy...   hoy hoy...",  sorak sorai terddengar menyatu dengan beat
+- freya melompat tinggi selaras dengan suara ledakan, dan semprotan api di efek panggung
+- Booom.... ledakan peluru RPG melesat menghancurkan area sekitar membuat stray dan lynx tersunkur "Dasar para anjing gila.... apa mereka tidak berpikir mereka akan menganc~" gerutu lynx yg belum selesai
+- "Chesire ... apakah tidak ada rute lain yg  lebih masuk akal ?" ucap stray ke perangkat komunikasi di telinganya
+- "bsst....bssttt.... lurus saja dalam 20 meter lalu belok kiri aku telah menyiapkan sesuatu"
+- Tanpa berpikir  tidak ada pilihan mereka berdua meihat satu sama lain sebelum segera bangun dan berlari ke araah yg ditunjukan rekanya
+- Lesatan freya ke belakang dengan hegemoni suara yg menggelegar, ia menjentikan jari di dan seketika udara membeku sekaan tanpa medium, tidak satu herts pun suara yg terdengar di arena, lautan fans yg mulai berteriak tanpa adanya suara
+- Freya berdiri di tengah panggung dengan megaphone masih berada di tangannya. Ia tahu persis apa yang baru saja terjadi, dan dari senyum kecil di wajahnya, jelas bahwa ia menikmati reaksi penonton.
+- Freya mengangkat microphone ke depan mulut dan mengatakan sesuatu, tetapi tidak ada suara yang keluar. Ia kemudian menunjuk ke arah penonton.Mereka langsung mengerti.Ribuan orang mencoba berteriak pada saat yang sama, tetapi tidak satu pun suara berhasil keluar.Freya tertawa tanpa suara.
+- Beberapa penonton bahkan tampak tertawa sendiri ketika menyadari betapa anehnya situasi tersebut. Ribuan orang memenuhi arena, tetapi semuanya berlangsung dalam keheningan absolut. Hanya cahaya glowstick yang bergerak di antara kegelapan.
+- Freya kemudian mengangkat tiga jari.Tiga.Dua.Satu.Jentikan jarinya terdengar—atau lebih tepatnya, suara kembali tepat ketika jarinya bergerak tepat di saat musik memasuki chorus terakhir. > Thousands of voices joined the chorus. Even the railings vibrated with every beat.
+- Salah satu tentara menerjang kepulan asap ledakan dengan cepat melihat ke kanan dan ke kiri dengan senapanya. "Clear... target hilang dari kontak" (dengan bahasa taktis)
+- tentara yg lain mengamati ada saluran selokan yg seperti habis terbuka , ia langsung mengirim sinyal ke pusat untuk mengirimkan bantuan pencarian ke salauran bawah dan penutupan jalur (dengan bahasa taktis)
+- terikan sorak sorai para penggemar terdengar sangat menggema, freya melompat berdansa bersama para penari latar lain, di akhir dia meneriakan nada tinggi akhir lagu sebelum melakukan pose ikoniknya (kedua tangan terbuka di depan muka telapak menghadap depan, dan wajah ganasnya ) . perlahan lampu panggung meredup...
+- "Whoaaaaaa....." teriakan puas serempak dari lautan manusia di venue yg miinim cahaya.
+
+
+- "Bzzt..... Ih bangun udah pagi sayang... bzzt"x3
+- "Huh?....*tap*.. sial sudah pagi ya..." aku berusaha mengumpulkan kesadaranku dan menegakan pinggang untuk duduk. 
+- "Le.... bangun lah... telat nanti kamu..."  gema suara lemah lembut yg kudengar dari luar ruangan 
+- "Iya Mah... udah bangun ini... bentar ah..." sautku sambil perlahan menggeser pinggul ke samping ranjang  untuk berdiri, 
+- "Huaaah...... " kubuka gorden jendela hanya untuk meelihat cahaya mentari sekejap menusuk inndraku.  melihat figura foto (foto keluarga ayah ibu dan anak) di meja,  *Bruk* menidurkan foto itu tiba tiba seakan posisinya harusnya seperti itu. 
+- *Suara shower mandi* --> macet macet 
+- "Maaah... mati lagi apa ?" tahanku mengerutkan mata karena shampoku belum dibilas, sedikit rasa perih mulai terasa
+- "Bentar cuci piring... dah tu" --> suara keran mati diikuti dengan shower kembali menyala
+- Hari ini adalah hari kelulusanku, entah tawa atau derita yg akan menunggu. suara gesekan antar katun (memakai dasi), aku melihat pantulan diriku sendiri di cermin refleku menyeringai "*Wiih... Ganteng juga gua...*"
+- Suara berjalan di rumah, aku mengambil sepotong roti lapis telur yg ada di meja  "Mah..  aku berangkat dulu ya..."
+- "Loh makan dulu lah..." ujarnya datang sambil membawa seeteko teh hangat, 
+- Aku meletakan roti itu di mulut "Awh udgah elat... agu mbil ni aga" jawabku seadanya --. suara pintu terbuka
+- Perjalanan keluar,  keluar dari kontrakan biasa sedikit kontras dengan suasana di luar (latar masa depan mobil terbang dst) (daerah kumuh di latar belakang scifi modern),--> 
+- "Woi cil.... mau kemana rapih banget begitu" ujar seorang berpakaian kumuh dengan rambut panjang dan tawa beberapa orang di belakangnya
+- "Nyari cewe om ... ikut ga ?" jawabku dengan congkak menyeringai seolah tahu ini hanya hari kamis (jokes ini hanya rutinitas)
+- "Wahaha... gaya lu cil... dah sana ga minat om sama bocah" tawanya diikuti dengan suara tawa yg lain
+- Aku berjalan santai menikmati udara pagi sambil memakan sepotong roti , sialnya suara klakson *hovercar* di atas dan celotehan warga benar benar mengganggu vibe indah ini
+- Suara pengumuman stasiun bawah tanah "Sector 10 Sector 10 TEG-4L.... perhatikan langkah ..." suara gerudukan langkah masuk ke kereta 
+- "Hmm sepi juga..." gumamku agak heran "ohiya hari minggu ya...."
+- berjalan menuju kereta dan duduk -> masuk kereta umum . Kau bisa memanggilku fauzi, beberapa orang memanggilku wibu, tapi biarlah aku tidak peduli juga.
+- Ada kejadian pencopetan di kereta, seorang pencopet mengambil tas dan berlari ke arah gerbong selanjutnya dikejar oleh beberapa orang. "hoy berhenti gak lu..."
+- Ada apa ? kalian bertanya mengapa aku tidak panik, semenjak lengsernya beberapa elitis global beberapa tahun lalu, berbagai kerusuhan terjadi di berbagai negara menuntut berbagai kebijakan . Familiar ? Ya hal itu masih sering terjadi bahkan ketika para parasit (koruptor dll) sudah tidak ada. Setiap orang selalu memiliki kepentingan , jadi mau bagaimanapun kondisinya tidak pernah akan ada keadilan sempurna –  Kalian seharusnya sudah bisa menebak bagaimana selanjutya , di setiap negara kondisi bisa menjadi distopia atau utopia tergantung pihak yg menang dan bagaimana mereka memenangkanya. Negaraku ? *Suara tawa* seharusnya kalian tidak perlu menunggu jawabanku kan
+- ”Mungkin aku sebaiknya menjauh.... akan merepotkan”, berjalan menuju gerbong lain, beberapa penumpang melakukan hal serupa, trnasit tanpa kepanikan seolah semua sudah biasa terjadi, Kereta melesat cepat melewati terowongan seolah kegelapan menyelimuti. Ya benar, di zaman apapun kita hidup, manusia tetaplah manusia
+- ”Sector 12 sector 12 Karangeak ..” suara dari pengumuman stasiun, aku turun lalu menuju pintu keluar stasiun
+- "Hoaaah.... acara jam segini kepagian ga sih" keluhku sambil menguap di saat sudah mencapai permukaan
+
+
+- jalan menuju sekolahku, ini adalah hari kelulusan, (di sepanjang jalan banyak wajah senang berjalan bersama orang tua mereka)
+- Setelah ada suara mic check, semua bergegas menuju hall di pusat sekolah, aku tidak bisa menyalahkan ibuku atas ketidakhadiranya, jika dia tidak berangkat untuk menjadi supir limbah sehari saja, mungkin listrik kami akan mati. Jadi acara kelulusan bukanlah prioritas kami.
+- Acara diimulai dengan beberapa sambutan dan hiburan, sampai di momen yg kutunggu , pemberian penghargan, aku telah bekerja keras untuk ini, aku yakin pasti bisa mendapat posisi pertama pada ujian kelulusan
+- 10 besar orang yang mendapat hasil terbaik  mulai dipanggil satu demi satu mulai dari bawah, aku benar benar menunggu namaku dipanggil paling terakhir. Namun senyumku mulai memudar ”Fauzi Arkanastra” namaku dipanggil tergema setelah posisi ketiga
+- Aku berjalan menuju panggung, Apa ? tidak apa . ini sudah biasa semenjak aku kecil sebanyak apapun aku berusaha aku hanya bisa mencapai posisi kedua. Tidak bukannya aku tidak senang , tapi.... huh... mungkin sebagian dari kalian paham,aku sudah melihat banyak anak hebat dengan mataku sendiri, dan semakin keras aku berlari semakin aku sadar bahwa aku bukan salah satu dari mereka. Tidak tidak aku bukan rendah diri, aku paham banyak anak di hall ini yg mendambakan posisiku, tapi mendapatkan ini secara berturut turut  kau akan sadar di posisi ini tidak ada yg bersimpati padamu atas kerja kerasmu seperti posisi di bawah dan tidak ada yg merayakan keberhasilanmu seperti posisi pertama.
+- Setelah itu aku melihat salah satu sahabatku naik ke podium......  Thern, “Zi... yooooo... aku mendapatkan posisi pertama....” suara bahagia terdengar setelah dia naik bersama orang yang lebih tua mirip denganya di belakang. “Haha ya aku tahu kamu pasti ...” balasku dengan sedikit senyum terukir di wajahku untuk memberikan apresiasi
+- Ribuan jarum serasa menghujam jantungku, Thern ? mengapa ia yang disana setiap hari dia hanya mengeluh dengan tugas yang diberikan dan mengandalkanku untuk sisanya, Tidak.... sedari awal itu memang salahku, aku terlalu memandang tinggi diriku, seharusnya aku sudah bisa menduga ini
+- Kenangan masa lalu (percakapan). Yah,aku harus membuang jauh jauh prasanka bahwa dia hanya beruntung,  dia pasti juga sudah berusaha keras, agar menjadi yang teratas, tapi seperti yang telah kubilang sebelumnya. Pasti ada seseorang di sekitar kalian diaman semakin kalian menatapnya mungkin hari selanjutnya kalian hanya akan melihat punggungnya.
+- Ahaha... yah memang sial, tapi aku akan tetap berlari... meski aku tidak tahu lintasan apa yang harus kuhadapi, aku tetap mengharapkan secercah cahaya dimana mungkin aku akan memenangkan pertandinganku sendiri. Mungkin. Entahlah.... Ya aku akan berharap suatu saat nanti.... atau mungkin setidaknya hanya itu yg bisa kulakukan untuk kerja keras orang yang telah peduli padaku selama ini... 
+
+
+
