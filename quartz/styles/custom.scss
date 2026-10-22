@@ -1,3 +1,255 @@
-@use "./variables.scss" as *;
+/* Re:Fault Archive — Obsidian-inspired Quartz workspace
+   Place this file at quartz/styles/custom.scss and ensure Quartz imports it. */
 
-// put your custom CSS here!
+/* ---------- Palette and typography ---------- */
+:root {
+  --light: #e7e5e2;
+  --lightgray: #d4d0cc;
+  --gray: #8b8784;
+  --darkgray: #4a4745;
+  --dark: #242222;
+  --secondary: #8b0000;
+  --tertiary: #b3262d;
+  --highlight: rgba(139, 0, 0, 0.12);
+}
+
+:root[saved-theme="dark"] {
+  --light: #202020;
+  --lightgray: #2b2a2a;
+  --gray: #666363;
+  --darkgray: #c9c6c4;
+  --dark: #f0ecea;
+  --secondary: #e0242b;
+  --tertiary: #ff6268;
+  --highlight: rgba(224, 36, 43, 0.14);
+}
+
+/* Main canvas */
+html, body {
+  background: var(--light);
+}
+
+body {
+  color: var(--dark);
+  font-family: "Source Sans Pro", "Segoe UI", sans-serif;
+  letter-spacing: 0.005em;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page-title,
+.article-title {
+  font-family: "Cinzel", Georgia, serif;
+  letter-spacing: 0.025em;
+}
+
+/* ---------- Obsidian-like frame and sidebars ---------- */
+#quartz-root {
+  min-height: 100vh;
+  background: var(--light);
+}
+
+.left.sidebar,
+.right.sidebar {
+  background: #191919;
+  color: #d4d0ce;
+  border-color: #383535;
+  box-sizing: border-box;
+}
+
+.left.sidebar {
+  border-right: 1px solid #393535;
+  padding: 1rem 0.8rem;
+}
+
+.right.sidebar {
+  border-left: 1px solid #393535;
+  padding: 1rem 0.8rem;
+}
+
+.left.sidebar a,
+.right.sidebar a,
+.left.sidebar p,
+.right.sidebar p,
+.left.sidebar li,
+.right.sidebar li {
+  color: #c8c3c1;
+}
+
+.left.sidebar a:hover,
+.right.sidebar a:hover {
+  color: #ff6268;
+}
+
+/* Slight inset-panel look without heavy shadows */
+.explorer,
+.graph,
+.toc,
+.backlinks,
+.recent-notes {
+  border: 1px solid #393535;
+  border-radius: 3px;
+  background: #1c1b1b;
+  padding: 0.65rem;
+}
+
+.explorer {
+  margin-bottom: 0.85rem;
+}
+
+.explorer .folder,
+.explorer .file {
+  line-height: 1.65;
+}
+
+.explorer a,
+.explorer button {
+  transition: color 0.18s ease, background-color 0.18s ease;
+}
+
+.explorer a:hover {
+  color: #ff6268;
+}
+
+/* ---------- Reading area ---------- */
+.center,
+.center article,
+.page {
+  background: #202020;
+}
+
+.center {
+  min-width: 0;
+}
+
+.center article {
+  max-width: 1000px;
+  padding-top: 1.4rem;
+}
+
+article p,
+article li {
+  line-height: 1.75;
+}
+
+article h1,
+article h2,
+article h3 {
+  color: #eee9e7;
+}
+
+article h2 {
+  border-bottom: 1px solid #484242;
+  padding-bottom: 0.35rem;
+  margin-top: 2rem;
+}
+
+/* Breadcrumbs and page metadata */
+.breadcrumb-container,
+.breadcrumbs,
+.content-meta,
+footer {
+  color: #8f8987;
+}
+
+.breadcrumb-container a,
+.breadcrumbs a,
+.content-meta a {
+  color: #b8b1af;
+}
+
+/* ---------- Links, selection, and interactive states ---------- */
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a.internal,
+a.external {
+  color: #e0242b;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.18s ease;
+}
+
+a.internal:hover,
+a.external:hover {
+  color: #ff6268;
+  text-decoration: underline;
+}
+
+::selection {
+  background: rgba(224, 36, 43, 0.32);
+}
+
+/* Search and controls */
+input,
+textarea,
+select,
+.search-button,
+button {
+  accent-color: #e0242b;
+}
+
+input,
+textarea,
+select {
+  background: #242323;
+  color: #eee9e7;
+  border-color: #494343;
+}
+
+button,
+.search-button {
+  border-color: #494343;
+}
+
+/* Callouts, tables, and code blocks */
+.callout {
+  border-color: #554040;
+  background: rgba(255, 255, 255, 0.025);
+}
+
+table {
+  border-color: #454040;
+}
+
+th {
+  background: #2a2828;
+}
+
+td, th {
+  border-color: #454040;
+}
+
+pre,
+code {
+  border-color: #393535;
+}
+
+pre {
+  background: #181818;
+}
+
+/* Images and embeds should sit naturally in the dark workspace */
+article img,
+article video,
+article iframe {
+  border-radius: 2px;
+}
+
+article hr {
+  border-color: #454040;
+}
+
+/* ---------- Responsive behavior ---------- */
+@media (max-width: 800px) {
+  .left.sidebar,
+  .right.sidebar {
+    background: #191919;
+    border-color: #393535;
+  }
+
+  .center article {
+    padding-top: 1rem;
+  }
+}
