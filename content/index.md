@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Re:Fault Archieve
 ---
 
 This is a blank Quartz installation.
