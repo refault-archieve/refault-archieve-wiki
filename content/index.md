@@ -1,5 +1,7 @@
 ---
 title: Welcome to Re:Fault Archieve
+cssclasses:
+  - dashboard
 ---
 
 ![[banner.png]]
