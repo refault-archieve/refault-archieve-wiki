@@ -7,7 +7,7 @@ tags:
   - character
 ---
 
-# {{title}}
+# Frostia Hellnova
 
 > Ringkasan karakter dalam 1–3 kalimat.
 

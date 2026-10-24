@@ -12,7 +12,7 @@ tags:
   - DoN
 ---
 
-# {{title}}
+# Thompson Siregar
 
 > Ringkasan 1-2 kalimat mengenai karakter.
 

@@ -9,7 +9,7 @@ tags:
   - organization
 ---
 
-# {{title}}
+# SCROVIA
 
 > [!info]
 > Overview organisasi.

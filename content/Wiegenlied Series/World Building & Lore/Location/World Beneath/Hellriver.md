@@ -34,19 +34,19 @@ Dikenal dengan julukan *The Grave of Kings*, Hellriver adalah wilayah timur di b
 
 ### Basic Information
 
-| Attribute | Details |
-| ------ | ------ |
-| Location Type | Rugged Canyon & River Domain |
-| World | [[World Beneath]] |
-| Region | [[Hellriver]] |
-| Political Entity | Domain of House Hariboarl |
-| Government | Otoritas Feodal Kekuatan / Gluttony |
-| Ruler / Authority | [[House Hariboarl]] |
-| Population | Sedang |
-| Dominant Species / Peoples | Demon (Gluttony-lineage), Penambang, Pemburu |
-| Climate | Ekstrem Kasar, Udara Berat, Hangat Pegunungan |
-| Danger Level | Tinggi (Lingkungan & Jurang) |
-| Current Status | Confirmed / Active |
+| Attribute                  | Details                                                                                 |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Location Type              | Rugged Canyon & River Domain                                                            |
+| World                      | [[Wiegenlied Series/World Building & Lore/Location/World Beneath/index\|World Beneath]] |
+| Region                     | [[Hellriver]]                                                                           |
+| Political Entity           | Domain of House Hariboarl                                                               |
+| Government                 | Otoritas Feodal Kekuatan / Gluttony                                                     |
+| Ruler / Authority          | [[House Hariboarl]]                                                                     |
+| Population                 | Sedang                                                                                  |
+| Dominant Species / Peoples | Demon (Gluttony-lineage), Penambang, Pemburu                                            |
+| Climate                    | Ekstrem Kasar, Udara Berat, Hangat Pegunungan                                           |
+| Danger Level               | Tinggi (Lingkungan & Jurang)                                                            |
+| Current Status             | Confirmed / Active                                                                      |
 
 ---
 

@@ -34,19 +34,19 @@ Abyssal Jehem adalah wilayah primordial yang dihuni oleh para Primal Demon. Bera
 
 ### Basic Information
 
-| Attribute                  | Details                                            |
-| -------------------------- | -------------------------------------------------- |
-| Location Type              | Primordial Realm / Uncharted Demon Wilderness      |
-| World                      | [[World Beneath]]                                  |
-| Region                     | [[Abyssal Jehem]]                                  |
-| Political Entity           | Non-aligned / Domain Primal Demon                  |
-| Government                 | Tanpa Hukum Biasa (Dominasi Individu / Teritorial) |
-| Ruler / Authority          | Terbagi antar Primal Demon / [[Archdemon]]         |
-| Population                 | Tidak Terdata (Makhluk Primordial)                 |
-| Dominant Species / Peoples | Primal Demon, Archdemon, Monster Kuno              |
-| Climate                    | Beragam (Hutan Purba, Tandus, Lembah Mistik)       |
-| Danger Level               | Sangat Tinggi / Mematikan                          |
-| Current Status             | Confirmed / Partially Unmapped                     |
+| Attribute                  | Details                                                                                 |     |
+| -------------------------- | --------------------------------------------------------------------------------------- | --- |
+| Location Type              | Primordial Realm / Uncharted Demon Wilderness                                           |     |
+| World                      | [[Wiegenlied Series/World Building & Lore/Location/World Beneath/index\|World Beneath]] |     |
+| Region                     | [[Abyssal Jehem]]                                                                       |     |
+| Political Entity           | Non-aligned / Domain Primal Demon                                                       |     |
+| Government                 | Tanpa Hukum Biasa (Dominasi Individu / Teritorial)                                      |     |
+| Ruler / Authority          | Terbagi antar Primal Demon / [[Archdemon]]                                              |     |
+| Population                 | Tidak Terdata (Makhluk Primordial)                                                      |     |
+| Dominant Species / Peoples | Primal Demon, Archdemon, Monster Kuno                                                   |     |
+| Climate                    | Beragam (Hutan Purba, Tandus, Lembah Mistik)                                            |     |
+| Danger Level               | Sangat Tinggi / Mematikan                                                               |     |
+| Current Status             | Confirmed / Partially Unmapped                                                          |     |
 
 ---
 
@@ -142,7 +142,7 @@ Tidak tunduk pada hukum kekaisaran. Konflik didasari perebutan teritori perburua
 
 ### Factions Present
 
-*  [[Primal Demon Factions]]
+*  [[Primal Demon]]
 *  [[Archdemon Domain]]
 
 ---

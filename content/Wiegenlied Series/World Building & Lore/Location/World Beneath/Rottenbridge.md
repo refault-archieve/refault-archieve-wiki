@@ -34,19 +34,19 @@ tags:
 
 ### Basic Information
 
-| Attribute                  | Details                                        |
-| -------------------------- | ---------------------------------------------- |
-| Location Type              | Bridge Network / Island City Region            |
-| World                      | [[World Beneath]]                              |
-| Region                     | [[Rottenbridge]]                               |
-| Political Entity           | Territory of House Violentblood                |
-| Government                 | Pemerintahan Otonom Lokal / Feodal Sloth       |
-| Ruler / Authority          | [[House Violentblood]]                         |
-| Population                 | Tinggi                                         |
-| Dominant Species / Peoples | Demon (Sloth-lineage & Nocturnal Demographics) |
-| Climate                    | Berkabut, Lembap, Malam Abadi/Dominan          |
-| Danger Level               | Sedang (Ganggum / Misteri Sejarah)             |
-| Current Status             | Confirmed / Active                             |
+| Attribute                  | Details                                                                                 |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Location Type              | Bridge Network / Island City Region                                                     |
+| World                      | [[Wiegenlied Series/World Building & Lore/Location/World Beneath/index\|World Beneath]] |
+| Region                     | [[Rottenbridge]]                                                                        |
+| Political Entity           | Territory of House Violentblood                                                         |
+| Government                 | Pemerintahan Otonom Lokal / Feodal Sloth                                                |
+| Ruler / Authority          | [[House Violentblood]]                                                                  |
+| Population                 | Tinggi                                                                                  |
+| Dominant Species / Peoples | Demon (Sloth-lineage & Nocturnal Demographics)                                          |
+| Climate                    | Berkabut, Lembap, Malam Abadi/Dominan                                                   |
+| Danger Level               | Sedang (Ganggum / Misteri Sejarah)                                                      |
+| Current Status             | Confirmed / Active                                                                      |
 
 ---
 

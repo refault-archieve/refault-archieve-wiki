@@ -34,19 +34,19 @@ Dikenal dengan julukan *Garden of the Sunrise* (Taman Fajar), Yeld Montana merup
 
 ### Basic Information
 
-| Attribute                  | Details                                       |
-| -------------------------- | --------------------------------------------- |
-| Location Type              | High Plateau / Academic Center                |
-| World                      | [[World Beneath]]                             |
-| Region                     | [[Kanilos-Grave]]                             |
-| Political Entity           | Territory of House Vermilion                  |
-| Government                 | Aristokrasi Institusional                     |
-| Ruler / Authority          | [[House Vermilion]]                           |
-| Population                 | Sedang (Banyak Pelajar dan Bangsawan)         |
-| Dominant Species / Peoples | Demon (Pride-lineage), Cendekiawan, Bangsawan |
-| Climate                    | Sejuk, Angin Dataran Tinggi, Fajar Cerah      |
-| Danger Level               | Rendah                                        |
-| Current Status             | Confirmed / Active                            |
+| Attribute                  | Details                                                                                 |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Location Type              | High Plateau / Academic Center                                                          |
+| World                      | [[Wiegenlied Series/World Building & Lore/Location/World Beneath/index\|World Beneath]] |
+| Region                     | [[Kanilos-Grave]]                                                                       |
+| Political Entity           | Territory of House Vermilion                                                            |
+| Government                 | Aristokrasi Institusional                                                               |
+| Ruler / Authority          | [[House Vermilion]]                                                                     |
+| Population                 | Sedang (Banyak Pelajar dan Bangsawan)                                                   |
+| Dominant Species / Peoples | Demon (Pride-lineage), Cendekiawan, Bangsawan                                           |
+| Climate                    | Sejuk, Angin Dataran Tinggi, Fajar Cerah                                                |
+| Danger Level               | Rendah                                                                                  |
+| Current Status             | Confirmed / Active                                                                      |
 
 ---
 

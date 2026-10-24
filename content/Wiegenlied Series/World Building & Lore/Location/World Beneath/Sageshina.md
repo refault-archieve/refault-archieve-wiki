@@ -34,19 +34,19 @@ Sageshina adalah kepulauan di bagian barat World Beneath yang dikuasai oleh Hous
 
 ### Basic Information
 
-| Attribute | Details |
-| ------ | ------ |
-| Location Type | Maritime Archipelago / Commercial Hub |
-| World | [[World Beneath]] |
-| Region | [[Sageshina]] |
-| Political Entity | Territory of House Annocence |
-| Government | Oligarki Perdagangan Komersial |
-| Ruler / Authority | [[House Annocence]] |
-| Population | Sangat Tinggi (Kosmopolitan) |
-| Dominant Species / Peoples | Demon (Greed-lineage), Pedagang, Pelaut |
-| Climate | Angin Laut, Lemba, Pesisir Sedang |
-| Danger Level | Sedang (Kriminalitas Komersial / Perompak) |
-| Current Status | Confirmed / Active |
+| Attribute                  | Details                                                                                 |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Location Type              | Maritime Archipelago / Commercial Hub                                                   |
+| World                      | [[Wiegenlied Series/World Building & Lore/Location/World Beneath/index\|World Beneath]] |
+| Region                     | [[Sageshina]]                                                                           |
+| Political Entity           | Territory of House Annocence                                                            |
+| Government                 | Oligarki Perdagangan Komersial                                                          |
+| Ruler / Authority          | [[House Annocence]]                                                                     |
+| Population                 | Sangat Tinggi (Kosmopolitan)                                                            |
+| Dominant Species / Peoples | Demon (Greed-lineage), Pedagang, Pelaut                                                 |
+| Climate                    | Angin Laut, Lemba, Pesisir Sedang                                                       |
+| Danger Level               | Sedang (Kriminalitas Komersial / Perompak)                                              |
+| Current Status             | Confirmed / Active                                                                      |
 
 ---
 
