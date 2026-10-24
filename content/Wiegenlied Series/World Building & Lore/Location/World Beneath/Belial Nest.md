@@ -34,19 +34,19 @@ Dikenal sebagai *Southern Urban Theatre*, Belial Nest adalah kawasan pesisir sel
 
 ### Basic Information
 
-| Attribute                  | Details                                        |
-| -------------------------- | ---------------------------------------------- |
-| Location Type              | Dense Coastal Metropolis                       |
-| World                      | [[World Beneath]]                              |
-| Region                     | [[Belial Nest]]                                |
-| Political Entity           | Domain of House Cantalouphe                    |
-| Government                 | Aristokrasi Seni & Hiburan Perkotaan           |
-| Ruler / Authority          | [[House Cantalouphe]]                          |
-| Population                 | Sangat Tinggi (Urban Padat)                    |
-| Dominant Species / Peoples | Demon (Lust-lineage), Seniman, Warga Perkotaan |
-| Climate                    | Pesisir Hangat, Angin Selatan                  |
-| Danger Level               | Rendah - Sedang (Intrik Sosial)                |
-| Current Status             | Confirmed / Active                             |
+| Attribute                  | Details                                                                                 |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Location Type              | Dense Coastal Metropolis                                                                |
+| World                      | [[Wiegenlied Series/World Building & Lore/Location/World Beneath/index\|World Beneath]] |
+| Region                     | [[Belial Nest]]                                                                         |
+| Political Entity           | Domain of House Cantalouphe                                                             |
+| Government                 | Aristokrasi Seni & Hiburan Perkotaan                                                    |
+| Ruler / Authority          | [[House Cantalouphe]]                                                                   |
+| Population                 | Sangat Tinggi (Urban Padat)                                                             |
+| Dominant Species / Peoples | Demon (Lust-lineage), Seniman, Warga Perkotaan                                          |
+| Climate                    | Pesisir Hangat, Angin Selatan                                                           |
+| Danger Level               | Rendah - Sedang (Intrik Sosial)                                                         |
+| Current Status             | Confirmed / Active                                                                      |
 
 ---
 

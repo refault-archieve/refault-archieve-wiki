@@ -1,3 +1,6 @@
+---
+title: Upper  Sanctuary
+---
 # Upper Sanctuary — Rangkuman Geografi dan Geopolitik
 
 Upper Sanctuary merupakan dunia atas dalam kosmologi Wiegenlied. Wilayah ini menjadi tempat berkembangnya berbagai bangsa, kerajaan, republik, konfederasi, dan institusi independen yang membentuk tatanan politik tersendiri. Meskipun dikenal sebagai dunia manusia dan peradaban yang berada di bawah naungan White Being, Upper Sanctuary tidak dihuni manusia saja, dan tidak seluruh masyarakatnya memiliki pandangan, kebudayaan, atau kepentingan yang sama.

@@ -7,7 +7,7 @@ tags:
   - character
 ---
 
-# {{title}}
+# Satania Adolfwalker
 
 > Ringkasan karakter dalam 1–3 kalimat.
 

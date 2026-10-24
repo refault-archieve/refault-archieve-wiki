@@ -7,7 +7,7 @@ tags:
   - character
 ---
 
-# {{title}}
+# Lucifero Sanael
 
 > Ringkasan karakter dalam 1–3 kalimat.
 

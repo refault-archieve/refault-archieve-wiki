@@ -34,19 +34,19 @@ Terkenal sebagai *The Frozen Envy*, Harranheim adalah pulau utara yang terisolas
 
 ### Basic Information
 
-| Attribute | Details |
-| ------ | ------ |
-| Location Type | Northern Frozen Island |
-| World | [[World Beneath]] |
-| Region | [[Harranheim]] |
-| Political Entity | Domain of House Hellnova |
-| Government | Pemerintahan Militer/Keluarga Terisolasi |
-| Ruler / Authority | [[House Hellnova]] |
-| Population | Sangat Rendah |
-| Dominant Species / Peoples | Demon (Envy-lineage), Penjaga Utara |
-| Climate | Badai Salju Abadi, Sub-Zero, Dingin Ekstrem |
-| Danger Level | Tinggi (Lingkungan & Pertahanan) |
-| Current Status | Confirmed / Active |
+| Attribute                  | Details                                                                                 |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Location Type              | Northern Frozen Island                                                                  |
+| World                      | [[Wiegenlied Series/World Building & Lore/Location/World Beneath/index\|World Beneath]] |
+| Region                     | [[Harranheim]]                                                                          |
+| Political Entity           | Domain of House Hellnova                                                                |
+| Government                 | Pemerintahan Militer/Keluarga Terisolasi                                                |
+| Ruler / Authority          | [[House Hellnova]]                                                                      |
+| Population                 | Sangat Rendah                                                                           |
+| Dominant Species / Peoples | Demon (Envy-lineage), Penjaga Utara                                                     |
+| Climate                    | Badai Salju Abadi, Sub-Zero, Dingin Ekstrem                                             |
+| Danger Level               | Tinggi (Lingkungan & Pertahanan)                                                        |
+| Current Status             | Confirmed / Active                                                                      |
 
 ---
 

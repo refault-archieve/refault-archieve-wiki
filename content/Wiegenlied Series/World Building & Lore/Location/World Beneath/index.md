@@ -1,3 +1,6 @@
+---
+title: World Beneath
+---
 # World Beneath — Rangkuman Geografi dan Geopolitik
 
 World Beneath merupakan dunia bawah yang memiliki bentang alam beragam, mulai dari kepulauan perdagangan, wilayah pegunungan, daratan kekaisaran, pulau utara yang membeku, hingga jurang raksasa yang berhubungan dengan wilayah Primal Demon. Geografinya bukan sekadar latar tempat, melainkan salah satu faktor yang membentuk kekuasaan, mobilitas, hubungan ekonomi, dan keterisolasian setiap wilayah.

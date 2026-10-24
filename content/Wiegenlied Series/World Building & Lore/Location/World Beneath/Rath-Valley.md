@@ -34,19 +34,19 @@ Pusat kekuasaan tertinggi di World Beneath di bawah naungan Empire of Rath-Valle
 
 ### Basic Information
 
-| Attribute                  | Details                                              |
-| -------------------------- | ---------------------------------------------------- |
-| Location Type              | Imperial Dominion & Capital Region                   |
-| World                      | [[World Beneath]]                                    |
-| Region                     | [[Kanilos-Grave]]                                    |
-| Political Entity           | Empire of Rath-Valley                                |
-| Government                 | Desentralistis Kekaisaran                            |
-| Ruler / Authority          | [[House Adolwalker]]                                 |
-| Population                 | Sangat Tinggi                                        |
-| Dominant Species / Peoples | Demon (Wrath-lineage) & Bangsa World Beneath lainnya |
-| Climate                    | Sedang, iklim daratan utama                          |
-| Danger Level               | Rendah (Sangat Terjaga)                              |
-| Current Status             | Confirmed / Active                                   |
+| Attribute                  | Details                                                                                 |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Location Type              | Imperial Dominion & Capital Region                                                      |
+| World                      | [[Wiegenlied Series/World Building & Lore/Location/World Beneath/index\|World Beneath]] |
+| Region                     | [[Kanilos-Grave]]                                                                       |
+| Political Entity           | Empire of Rath-Valley                                                                   |
+| Government                 | Desentralistis Kekaisaran                                                               |
+| Ruler / Authority          | [[House Adolwalker]]                                                                    |
+| Population                 | Sangat Tinggi                                                                           |
+| Dominant Species / Peoples | Demon (Wrath-lineage) & Bangsa World Beneath lainnya                                    |
+| Climate                    | Sedang, iklim daratan utama                                                             |
+| Danger Level               | Rendah (Sangat Terjaga)                                                                 |
+| Current Status             | Confirmed / Active                                                                      |
 
 ---
 

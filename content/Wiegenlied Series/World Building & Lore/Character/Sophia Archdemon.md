@@ -7,7 +7,7 @@ tags:
   - character
 ---
 
-# {{title}}
+# Sophia Archdemon
 
 > Ringkasan karakter dalam 1–3 kalimat.
 

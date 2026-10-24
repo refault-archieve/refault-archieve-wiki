@@ -7,7 +7,7 @@ tags:
   - character
 ---
 
-# {{title}}
+# Eve Adolfwalker
 
 > Ringkasan karakter dalam 1–3 kalimat.
 
@@ -22,7 +22,7 @@ Deskripsi umum, peran dalam cerita, dan posisi karakter di dunia Wiegenlied.
 | Attribute                | Details         |
 | ------------------------ | --------------- |
 | Full Name                | Eve Adolfwalker |
-| Alias / Epithet          |                 |
+| Alias / Epithet          | -               |
 | Species / Race           | [[Human]]       |
 | Gender                   | Female          |
 | Age                      | 14              |
