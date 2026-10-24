@@ -1,3 +1,8 @@
+---
+series: Wiegenlied
+tags:
+  - wiegenlied
+---
 ![[Wiegenlied.png]]
 
-https://refault-archieve.itch.io/wiegenlied  
+[Wiegenlied](https://refault-archieve.itch.io/wiegenlied)  

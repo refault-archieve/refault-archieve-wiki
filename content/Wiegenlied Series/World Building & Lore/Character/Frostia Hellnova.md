@@ -38,7 +38,7 @@ Deskripsi umum, peran dalam cerita, dan posisi karakter di dunia Wiegenlied.
 
 | Main Design                    | Alternate Design  |
 | ------------------------------ | ----------------- |
-| ![[Frostia Hellnova.png\|300]] | ![[alt.png\|500]] |
+| ![[Frostia Hellnova.png\|350]] | ![[alt.png\|500]] |
 
 ## Physical Features
 
