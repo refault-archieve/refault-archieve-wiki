@@ -1,5 +1,5 @@
 ---
-title: Re:Fault Archieve
+title: Welcome to Re:Fault Archieve
 cssclasses:
   - dashboard
 ---

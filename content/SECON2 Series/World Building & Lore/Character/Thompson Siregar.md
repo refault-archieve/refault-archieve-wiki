@@ -9,6 +9,7 @@ power: "[[Anti-Friction]]"
 first_appearance:
 tags:
   - character
+  - DoN
 ---
 
 # {{title}}
