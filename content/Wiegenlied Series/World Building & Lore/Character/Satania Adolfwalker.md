@@ -19,25 +19,25 @@ Deskripsi umum, peran dalam cerita, dan posisi karakter di dunia Wiegenlied.
 
 ## Basic Information
 
-| Attribute                | Details                                      |     |
-| ------------------------ | -------------------------------------------- | --- |
-| Full Name                | Haruhiro Satania Adolfwalker                 |     |
-| Alias / Epithet          | Satania                                      |     |
-| Species / Race           | [[Sinner Demon]],  Obsidian Horn Demon       |     |
-| Age                      | 25                                           |     |
-| Birthplace               | [[Rath-Valley]], [[Kanilos-Grave Continent]] |     |
-| Nationality / Allegiance | Rath-Valley Empire                           |     |
-| Occupation / Title       | Ravenkeep Shopkeeper, Maou                   |     |
-| Current Status           | Temporary Emperor                            |     |
-| First Appearance         | Episode 1                                    |     |
+| Attribute                | Details                                |     |     |
+| ------------------------ | -------------------------------------- | --- | --- |
+| Full Name                | Haruhiro Satania Adolfwalker           |     |     |
+| Alias / Epithet          | Satania                                |     |     |
+| Species / Race           | [[Sinner Demon]],  Obsidian Horn Demon |     |     |
+| Age                      | 25                                     |     |     |
+| Birthplace               | [[Rath-Valley]], [[Kanilos-Grave]]     |     |     |
+| Nationality / Allegiance | Rath-Valley Empire                     |     |     |
+| Occupation / Title       | Ravenkeep Shopkeeper, Maou             |     |     |
+| Current Status           | Temporary Emperor                      |     |     |
+| First Appearance         | Episode 1                              |     |     |
 
 ---
 
 # Appearance
 
-| Main Design                       | Alternate Design                |     |     |
-| :-------------------------------- | :------------------------------ | --- | :-: |
-| ![[Satania Adolfwalker.png\|500]] | ![[satania_dissguise.png\|450]] |     |     |
+| Main Design                       | Alternate Design                |
+| :-------------------------------- | :------------------------------ |
+| ![[Satania Adolfwalker.png\|350]] | ![[satania_dissguise.png\|340]] |
 
 ## Physical Features
 
@@ -125,7 +125,7 @@ Makna desain, simbol visual, palet warna, dan detail yang wajib dipertahankan.
 | [[Eve Adolfwalker]]   | Foster Daughter |                 |
 | [[Lylia Vermilion]]   | Little Sister   |                 |
 | [[Hagen Adolfwalker]] | Father          | Hate            |
-| [[Lucifero]]          | *Right-Hand*    | Trust           |
+| [[Lucifero Sanael]]          | *Right-Hand*    | Trust           |
 
 ---
 

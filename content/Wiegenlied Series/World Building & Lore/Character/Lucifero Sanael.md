@@ -19,18 +19,18 @@ Deskripsi umum, peran dalam cerita, dan posisi karakter di dunia Wiegenlied.
 
 ## Basic Information
 
-| Attribute                | Details            |
-| ------------------------ | ------------------ |
-| Full Name                | Lucifero Sanael    |
-| Alias / Epithet          | Hell-Garden Knight |
-| Species / Race           |                    |
-| Gender                   | Male               |
-| Age                      | -                  |
-| Birthplace               | -                  |
-| Nationality / Allegiance | -                  |
-| Occupation / Title       | Hand of Emperor    |
-| Current Status           |                    |
-| First Appearance         | Episode 1          |
+| Attribute                | Details            |     |
+| ------------------------ | ------------------ | --- |
+| Full Name                | Lucifero Sanael    |     |
+| Alias / Epithet          | Hell-Garden Knight |     |
+| Species / Race           |                    |     |
+| Gender                   | Male               |     |
+| Age                      | -                  |     |
+| Birthplace               | -                  |     |
+| Nationality / Allegiance | -                  |     |
+| Occupation / Title       | Hand of Emperor    |     |
+| Current Status           |                    |     |
+| First Appearance         | Episode 1          |     |
 
 ---
 
@@ -38,7 +38,7 @@ Deskripsi umum, peran dalam cerita, dan posisi karakter di dunia Wiegenlied.
 
 | Main Design                   | Alternate Design  |
 | ----------------------------- | ----------------- |
-| ![[Lucifero Sanael.png\|300]] | ![[alt.png\|500]] |
+| ![[Lucifero Sanael.png\|350]] | ![[alt.png\|500]] |
 
 ## Physical Features
 

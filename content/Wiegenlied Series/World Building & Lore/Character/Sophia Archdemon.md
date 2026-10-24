@@ -36,9 +36,9 @@ Deskripsi umum, peran dalam cerita, dan posisi karakter di dunia Wiegenlied.
 
 # Appearance
 
-| Main Design                    | Alternate Design                        |     |
-| ------------------------------ | --------------------------------------- | --- |
-| ![[Sophia Archdemon.png\|500]] | ![[Sophia Archdemon (pseudo).png\|500]] |     |
+| Main Design                    | Alternate Design                        |
+| ------------------------------ | --------------------------------------- |
+| ![[Sophia Archdemon.png\|350]] | ![[Sophia Archdemon (pseudo).png\|350]] |
 
 ## Physical Features
 
