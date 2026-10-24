@@ -9,7 +9,7 @@ power: Anti-Newtonian
 first_appearance:
 tags:
   - character
-  - favorite
+  - DoN
 ---
 
 # {{Fauzi Arkanastra}}

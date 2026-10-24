@@ -9,6 +9,7 @@ power: "[[Anti-Acceleration]]"
 first_appearance:
 tags:
   - character
+  - DoN
 ---
 
 # {{title}}
