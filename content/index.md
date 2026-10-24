@@ -9,11 +9,11 @@ cssclasses:
 
 ### Active Projects
 
-- [[SECON2]]
+- [[SECON2 Series/index|SECON2]]
     
-- [[Wiegenlied]]
+- [[Wiegenlied Series/index|Wiegenlied]]
     
-- [[RRR]]
+- [[RRR Series/index|RRR]]
     
 
 ### Current Tasks
@@ -24,5 +24,5 @@ cssclasses:
     
 -  Worldbuilding Revision
     
-
+-  Craft Visual Novel
 ---
