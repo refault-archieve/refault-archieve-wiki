@@ -10,19 +10,19 @@ Secara geopolitik, World Beneath memiliki satu kekuatan kekaisaran utama yang di
 
 Peta World Beneath memperlihatkan beberapa kelompok bentang alam utama.
 
-- Kanilos-Grave, daratan utama yang menampung Rath-Valley dan Yeld Montana serta menjadi pusat utama kekuasaan politik.
+- [[Kanilos-Grave]], daratan utama yang menampung [[Rath-Valley]] dan [[Yeld Montana]] serta menjadi pusat utama kekuasaan politik.
     
-- Harranheim, pulau utara dengan pegunungan bersalju dan iklim ekstrem.
+- [[Harranheim]], pulau utara dengan pegunungan bersalju dan iklim ekstrem.
     
-- Sageshina, kepulauan di sebelah barat yang memiliki posisi strategis untuk perdagangan laut.
+- [[Sageshina]], kepulauan di sebelah barat yang memiliki posisi strategis untuk perdagangan laut.
     
-- Rottenbridge, pulau dan kawasan berjembatan yang berada dekat daratan utama serta titik penting Root of Death.
+- [[Rottenbridge]], pulau dan kawasan berjembatan yang berada dekat daratan utama serta titik penting Root of Death.
     
-- Hellriver, wilayah di sebelah timur yang dipisahkan oleh Jehem Chasm.
+- [[Hellriver]], wilayah di sebelah timur yang dipisahkan oleh Jehem Chasm.
     
-- Belial Nest, kawasan selatan dengan konsentrasi permukiman dan aktivitas perkotaan.
+- [[Belial Nest]], kawasan selatan dengan konsentrasi permukiman dan aktivitas perkotaan.
     
-- Abyssal Jehem, wilayah Primal Demon yang keberadaan, luas, dan hubungannya dengan ruang geografis biasa masih belum sepenuhnya diketahui.
+- [[Abyssal Jehem]], wilayah Primal Demon yang keberadaan, luas, dan hubungannya dengan ruang geografis biasa masih belum sepenuhnya diketahui.
     
 
 Bentang alamnya tidak terbagi secara seragam. Ada wilayah yang menyatu dengan daratan utama, ada yang terisolasi oleh laut, dan ada pula yang aksesnya dibatasi oleh kondisi alam ekstrem. Perbedaan ini memberi tiap House keunggulan serta keterbatasan yang berbeda.
@@ -219,15 +219,15 @@ Model ini memungkinkan kekaisaran mempertahankan otoritas tanpa harus menghapus 
 
 Enam House Sinner Devil di luar Adolwalker memiliki wilayah, identitas, dan basis kekuasaan masing-masing.
 
-| House        | Sin      | Wilayah              | Basis identitas wilayah                           |
-| ------------ | -------- | -------------------- | ------------------------------------------------- |
-| Adolwalker   | Wrath    | Rath-Valley          | Kekaisaran dan pusat kekuasaan                    |
-| Vermilion    | Pride    | Yeld Montana         | Dataran tinggi, akademi, aristokrasi, diplomasi   |
-| Hellnova     | Envy     | Harranheim           | Pulau utara yang terisolasi dan ekstrem           |
-| Hariboarl    | Gluttony | Hellriver            | Sumber daya, lingkungan berbahaya, Kalystar River |
-| Annocence    | Greed    | Sageshina            | Perdagangan maritim dan industri                  |
-| Cantalouphe  | Lust     | Belial Nest          | Kota, seni, hiburan, dan pengaruh sosial          |
-| Violentblood | Sloth    | Kawasan Rottenbridge | Pulau, jaringan jembatan, dan sejarah Constantine |
+| House            | Sin      | Wilayah              | Basis identitas wilayah                           |
+| ---------------- | -------- | -------------------- | ------------------------------------------------- |
+| [[Adolwalker]]   | Wrath    | Rath-Valley          | Kekaisaran dan pusat kekuasaan                    |
+| [[Vermilion]]    | Pride    | Yeld Montana         | Dataran tinggi, akademi, aristokrasi, diplomasi   |
+| [[Hellnova]]     | Envy     | Harranheim           | Pulau utara yang terisolasi dan ekstrem           |
+| [[Hariboarl]]    | Gluttony | Hellriver            | Sumber daya, lingkungan berbahaya, Kalystar River |
+| [[Annocence]]    | Greed    | Sageshina            | Perdagangan maritim dan industri                  |
+| [[Cantalouphe]]  | Lust     | Belial Nest          | Kota, seni, hiburan, dan pengaruh sosial          |
+| [[Violentblood]] | Sloth    | Kawasan Rottenbridge | Pulau, jaringan jembatan, dan sejarah Constantine |
 
 Tabel tersebut menunjukkan hubungan wilayah dengan House penguasanya. Asosiasi dengan Sin merupakan identitas metafisik atau garis keturunan House, bukan berarti seluruh penduduk wilayah itu mempunyai sifat atau perilaku yang seragam.
 

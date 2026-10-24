@@ -14,16 +14,16 @@ Peta Upper Sanctuary memperlihatkan satu daratan pusat yang menonjol, beberapa b
 
 ### 1.1. Pembagian geografis utama
 
-| Wilayah                | Posisi pada peta                                    | Identitas geografis dan politik                                                               |
-| ---------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Illuminus Terra        | Pusat peta                                          | Benua utama; lokasi Great Wrestonia dan Tree of Life.                                         |
-| Waterfill              | Timur                                               | Benua tempat Kerajaan Zemudriell berada.                                                      |
-| Twintaburan            | Barat                                               | Benua tempat Monarki Hogenberg berada.                                                        |
-| Aurandell              | Utara                                               | Daratan dingin yang menjadi wilayah Frostbone Family, dipimpin House Girth.                   |
-| Darkwater              | Selatan                                             | Benua tempat Republik Hieldejarg berada.                                                      |
-| United of Crestomophia | Barat daya                                          | Wilayah Serikat Crestomophia, gabungan kerajaan-kerajaan kecil.                               |
-| Benua Bebas            | Tiga daratan kecil di sekitar kawasan utama         | Wilayah netral yang tidak dimiliki kerajaan tertentu dan menjadi lokasi institusi independen. |
-| Red Thread Sea         | Laut yang mengelilingi dan memisahkan kawasan utama | Ruang maritim yang menghubungkan berbagai benua dan daratan.                                  |
+| Wilayah                    | Posisi pada peta                                    | Identitas geografis dan politik                                                               |
+| -------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [[Illuminus Terra]]        | Pusat peta                                          | Benua utama; lokasi Great Wrestonia dan Tree of Life.                                         |
+| [[Waterfill]]              | Timur                                               | Benua tempat Kerajaan Zemudriell berada.                                                      |
+| [[Twintaburan]]            | Barat                                               | Benua tempat Monarki Hogenberg berada.                                                        |
+| [[Aurandell]]              | Utara                                               | Daratan dingin yang menjadi wilayah Frostbone Family, dipimpin House Girth.                   |
+| [[Darkwater]]              | Selatan                                             | Benua tempat Republik Hieldejarg berada.                                                      |
+| [[United of Crestomophia]] | Barat daya                                          | Wilayah Serikat Crestomophia, gabungan kerajaan-kerajaan kecil.                               |
+| [[Benua Bebas]]            | Tiga daratan kecil di sekitar kawasan utama         | Wilayah netral yang tidak dimiliki kerajaan tertentu dan menjadi lokasi institusi independen. |
+| [[Red Thread Sea]]         | Laut yang mengelilingi dan memisahkan kawasan utama | Ruang maritim yang menghubungkan berbagai benua dan daratan.                                  |
 
 Nama wilayah pada peta merupakan acuan geografis. Nama negara, nama benua, dan nama institusi tidak selalu merujuk pada wilayah yang sama. Sebagai contoh, Illuminus Terra adalah nama benua, sedangkan Great Wrestonia adalah kerajaan yang berada di dalamnya.
 
@@ -39,7 +39,7 @@ Peta belum menetapkan jarak pelayaran, arus laut, pola angin, iklim setiap benua
 
 ### 2.1. Illuminus Terra — benua utama
 
-Illuminus Terra merupakan benua utama yang terletak di pusat peta. Sebutan ini memiliki konotasi terang, surgawi, dan ilahi, sesuai dengan kedudukannya sebagai tempat Tree of Life tumbuh dan Great Wrestonia berkembang.
+Illuminus Terra merupakan benua utama yang terletak di pusat peta. Sebutan ini memiliki konotasi terang, surgawi, dan ilahi, sesuai dengan kedudukannya sebagai tempat [[Tree of Life]] tumbuh dan [[Great Wrestonia]] berkembang.
 
 Benua ini menjadi lokasi kerajaan utama Upper Sanctuary. Great Wrestonia menempati bagian tengah hingga selatan daratan pusat pada peta, sedangkan wilayah Tree of Life berada di kawasan kerajaan tersebut. Posisi ini membuat Great Wrestonia mempunyai kedudukan simbolis yang berbeda dari negara lain: pusatnya bukan hanya ibu kota kerajaan, tetapi juga dekat dengan salah satu struktur kosmologis terpenting di dunia.
 
@@ -60,7 +60,7 @@ Implikasi geografis dan geopolitiknya:
 
 Waterfill berada di sebelah timur Illuminus Terra. Peta menunjukkan daratan besar dengan garis pantai yang tidak beraturan, sejumlah pulau kecil di sekitarnya, dan pusat permukiman kerajaan di bagian barat-tengah.
 
-Wilayah ini menjadi tempat Kerajaan Zemudriell, yang penduduknya mayoritas elf serta mencakup bangsa-bangsa lain. Dalam sejarahnya, kerajaan ini pernah dikenal sebagai Gospel des Oberon.
+Wilayah ini menjadi tempat Kerajaan [[Zemudriell]], yang penduduknya mayoritas elf serta mencakup bangsa-bangsa lain. Dalam sejarahnya, kerajaan ini pernah dikenal sebagai Gospel des Oberon.
 
 Zemudriell memiliki identitas budaya yang menekankan keindahan, kesopanan, tata krama, dan etiket. Tradisi Knight Princess menjadi salah satu ciri khasnya, yaitu tradisi yang memungkinkan perempuan dari keluarga kerajaan menjadi ksatria kerajaan.
 
@@ -74,7 +74,7 @@ Waterfill memiliki pegunungan besar, hutan elf yang luas, dan banyak danau, Bent
 
 Twintaburan terletak di barat Illuminus Terra. Benua ini memiliki bentang daratan luas dengan garis pantai yang tidak beraturan. Peta memperlihatkan rangkaian pegunungan di bagian utara hingga timur laut, serta wilayah yang lebih terbuka di bagian selatan.
 
-Twintaburan menjadi wilayah Monarki Hogenberg, yang dikenal sebagai benteng penghancur iblis dan salah satu kekuatan militer manusia paling ambisius di Upper Sanctuary.
+Twintaburan menjadi wilayah Monarki [[Hogenberg]], yang dikenal sebagai benteng penghancur iblis dan salah satu kekuatan militer manusia paling ambisius di Upper Sanctuary.
 
 Hogenberg memiliki kecenderungan politik yang lebih berorientasi pada kekuatan militer, ekspansi, dan penaklukan dibandingkan beberapa entitas politik lain. Karena itu, kerajaan ini dapat dipandang sebagai mitra yang diperlukan dalam persoalan keamanan sekaligus kekuatan yang berpotensi menimbulkan kekhawatiran bagi negara tetangga.
 
@@ -93,9 +93,9 @@ Peta belum menetapkan batas wilayah militer, koloni, atau riwayat ekspansi Hogen
 
 ### 2.4. Aurandell — daratan utara Frostbone Family
 
-Aurandell terletak di bagian paling utara peta. Bentang alamnya didominasi hamparan bersalju dan rangkaian pegunungan. Permukiman yang ditandai tersebar di beberapa titik, bukan terkonsentrasi dalam satu pusat perkotaan besar.
+[[Aurandell]] terletak di bagian paling utara peta. Bentang alamnya didominasi hamparan bersalju dan rangkaian pegunungan. Permukiman yang ditandai tersebar di beberapa titik, bukan terkonsentrasi dalam satu pusat perkotaan besar.
 
-Berbeda dari negara-negara yang dipimpin seorang raja dengan pemerintahan terpusat, Aurandell berada di bawah Frostbone Family, sebuah konfederasi House yang bekerja sama untuk bertahan hidup di wilayah utara yang keras. House Girth memimpin konfederasi tersebut, dan pemimpinnya menyandang gelar King of the North.
+Berbeda dari negara-negara yang dipimpin seorang raja dengan pemerintahan terpusat, Aurandell berada di bawah [[Frostbone Family]], sebuah konfederasi House yang bekerja sama untuk bertahan hidup di wilayah utara yang keras. House Girth memimpin konfederasi tersebut, dan pemimpinnya menyandang gelar King of the North.
 
 Gelar itu tidak berarti seluruh House lain kehilangan kedudukan mereka. Kekuatan Frostbone Family justru berasal dari kemampuan berbagai House mempertahankan wilayah masing-masing sambil memberikan dukungan ketika dibutuhkan.
 
@@ -114,7 +114,7 @@ Aurandell tidak perlu diperlakukan sebagai satu kerajaan yang seragam. Model kon
 
 ### 2.5. Darkwater — benua Republik Hieldejarg
 
-Darkwater berada di bagian selatan peta dan merupakan salah satu daratan terbesar di kawasan tersebut. Peta menempatkan pusat Republik Hieldejarg di wilayah tengah hingga selatan benua.
+Darkwater berada di bagian selatan peta dan merupakan salah satu daratan terbesar di kawasan tersebut. Peta menempatkan pusat Republik [[Hieldejarg]] di wilayah tengah hingga selatan benua.
 
 Darkwater menjadi rumah bagi Republik Hieldejarg, yang dahulu merupakan Kerajaan Mestonian. Republik ini lahir melalui revolusi nonmanusia dan berkembang sebagai negara demokratis dengan masyarakat yang mencakup berbagai bangsa, termasuk dwarf dan beastmen.
 
@@ -128,7 +128,7 @@ Letaknya di bagian selatan juga membuka kemungkinan pengembangan jalur perdagang
 
 ### 2.6. United of Crestomophia — wilayah konfederasi di barat daya
 
-United of Crestomophia terletak di barat daya peta, pada daratan yang relatif terpisah dari Illuminus Terra dan Darkwater oleh laut.
+[[United of Crestomophia]] terletak di barat daya peta, pada daratan yang relatif terpisah dari Illuminus Terra dan Darkwater oleh laut.
 
 Wilayah ini merupakan basis Serikat Crestomophia, yaitu persekutuan sejumlah kerajaan kecil. Karena anggotanya terdiri atas kerajaan-kerajaan yang berbeda, struktur politiknya tidak sama dengan satu monarki tunggal yang memiliki otoritas langsung atas seluruh wilayah.
 
@@ -156,13 +156,13 @@ Benua Bebas bukan sekadar istilah untuk pasar bebas atau jaringan perdagangan. I
 Tiga institusi utamanya adalah Lion Bank, Calico & Virgo Trading Guild, dan Aj-Jazekh Citadel.
 
 
-1. Lion Bank
+1. [[Lion Bank]]
 	Institusi keuangan terbesar di dunia yang mengelola layanan perbankan, pembiayaan, pinjaman independen, serta kegiatan yang berhubungan dengan penambangan logam mulia. Pengaruhnya berasal dari kepercayaan finansial dan kemampuannya menangani kekayaan lintas negara.
 	
-2. Calico & Virgo Trading Guild
+2. [[Calico & Virgo Trading Guild]]
 	Serikat perdagangan yang mengelola jaringan pasar bebas. Perannya berkaitan dengan aktivitas dagang dan hubungan komersial lintas wilayah, sehingga kepentingannya dapat berbeda dari bank maupun lembaga pendidikan.
 	
-3. Aj-Jazekh Citadel
+3. [[Aj-Jazekh Citadel]]
 	Perpustakaan terbesar dan pusat kajian pengetahuan dunia. Para Maester mempelajari pengetahuan mengenai dunia, yang dibedakan dari teknologi sebagai bidang tersendiri. Grand Maester mewakili institusi ini dalam Council of Nine Swords.
 
 Keberadaan ketiga institusi ini memberikan Benua Bebas bentuk kekuatan yang tidak bergantung pada model kerajaan. Bank dapat memiliki pengaruh melalui pembiayaan, serikat dagang melalui arus barang, dan citadel melalui pengetahuan serta reputasi akademis.
@@ -173,7 +173,7 @@ Siapa yang berhak menduduki kursi The Administrator dalam Council of Nine Swords
 
 ### 2.8. Red Thread Sea — laut penghubung antarbenua
 
-Red Thread Sea merupakan nama laut yang mengelilingi dan memisahkan kawasan-kawasan utama Upper Sanctuary. Dalam peta, laut ini menjadi ruang luas di antara Illuminus Terra, Waterfill, Twintaburan, Darkwater, Aurandell, Crestomophia, dan tiga daratan Benua Bebas.
+[[Red Thread Sea]] merupakan nama laut yang mengelilingi dan memisahkan kawasan-kawasan utama Upper Sanctuary. Dalam peta, laut ini menjadi ruang luas di antara Illuminus Terra, Waterfill, Twintaburan, Darkwater, Aurandell, Crestomophia, dan tiga daratan Benua Bebas.
 
 Red Thread Sea memiliki arti geografis yang lebih luas daripada sekadar pemisah daratan. Dalam dunia dengan negara-negara yang memiliki kepentingan berbeda, laut dapat menjadi jalur perdagangan, jalur diplomasi, ruang patroli, dan jalur perjalanan yang menghubungkan komunitas lintas budaya.
 
@@ -193,7 +193,7 @@ Nama Red Thread Sea sudah ditetapkan, tetapi asal-usul nama, arus laut, pola ang
 
 ### 3.1. Tree of Life — pusat kosmologis
 
-Tree of Life tumbuh di wilayah Great Wrestonia, di benua Illuminus Terra. Pohon ini memiliki batang putih dan dedaunan keemasan, menjadi pasangan kosmologis Root of Death yang tumbuh di World Beneath.
+[[Tree of Life]] tumbuh di wilayah Great Wrestonia, di benua Illuminus Terra. Pohon ini memiliki batang putih dan dedaunan keemasan, menjadi pasangan kosmologis Root of Death yang tumbuh di World Beneath.
 
 Kedudukan Tree of Life berbeda dari gunung, sungai, atau struktur geografis biasa. Keberadaannya berkaitan dengan sistem dunia, sejarah White Being, dan transportasi yang menggunakan daunnya.
 
@@ -232,44 +232,44 @@ Yang sudah dapat dipastikan adalah prinsip geopolitiknya: akses portal merupakan
 Upper Sanctuary memiliki enam entitas politik utama yang dibahas dalam Council of Nine Swords. Keenamnya tidak mempunyai sistem pemerintahan yang sama.
 
 
-1. Great Wrestonia — Kerajaan Wrestonia Raya
+1. [[Great Wrestonia]] — Kerajaan Wrestonia Raya
 
-Illuminus Terra · Monarki utama
+[[Illuminus Terra]] · Monarki utama
 
 Kerajaan paling dominan di Upper Sanctuary, tempat Tree of Life berada. Monarkinya menyandang gelar King of the Kings dan secara tradisional dipandang sebagai pemimpin serta benteng terakhir umat manusia. Kedudukan tersebut merupakan kepemimpinan di antara entitas berdaulat, bukan hak untuk memerintah negara lain.
 
 
-2. Republik Hieldejarg
+2. Republik [[Hieldejarg]]
 
-Darkwater · Republik demokratis
+[[Darkwater]] · Republik demokratis
 
 Berasal dari bekas Kerajaan Mestonian dan terbentuk melalui revolusi nonmanusia. Dikenal dengan keberagaman bangsa, toleransi, dan orientasi ilmiah. Kepala negaranya bergelar Patriarch atau Matriarch.
 
 
-3. Monarki Hogenberg
+3. Monarki [[Hogenberg]]
 
-Twintaburan · Monarki militer
+[[Twintaburan]] · Monarki militer
 
 Kekuatan manusia yang dikenal karena orientasi militernya dan reputasinya sebagai benteng penghancur iblis. Ambisi ekspansinya membuat kerajaan ini penting bagi keamanan Upper Sanctuary, tetapi juga dapat menimbulkan kecurigaan negara lain.
 
 
-4. Kerajaan Zemudriell
+4. Kerajaan [[Zemudriell]]
 
-Waterfill · Monarki dengan mayoritas elf
+[[Waterfill]] · Monarki dengan mayoritas elf
 
 Kerajaan yang dahulu dikenal sebagai Gospel des Oberon. Kebudayaannya menekankan keindahan, kesopanan, dan etiket. Tradisi Knight Princess menjadi salah satu ciri khasnya.
 
 
 5. Serikat Crestomophia
 
-United of Crestomophia · Persekutuan kerajaan
+[[United of Crestomophia]] · Persekutuan kerajaan
 
 Aliansi beberapa kerajaan kecil yang membentuk satu entitas representatif untuk hubungan internasional. Presidennya mewakili kepentingan serikat dalam Council of Nine Swords.
 
 
-6. Frostbone Family
+6. [[Frostbone Family]]
 
-Aurandell · Konfederasi House
+[[Aurandell]] · Konfederasi House
 
 Kumpulan House yang saling mendukung untuk bertahan hidup di kawasan utara. House Girth memimpin konfederasi, dan pemimpinnya menyandang gelar King of the North. Struktur ini berbeda dari kerajaan yang memiliki satu pemerintahan terpusat.
 
@@ -321,7 +321,7 @@ Hubungan antara King of the North dan House lain perlu dipahami sebagai kepemimp
 
 ## 5. White Church Vaticarus — institusi independen
 
-White Church Vaticarus merupakan lembaga keagamaan yang memiliki kantor pusat di wilayah Great Wrestonia, dengan cabang di berbagai bagian Upper Sanctuary.
+[[White Church Vaticarus]] merupakan lembaga keagamaan yang memiliki kantor pusat di wilayah Great Wrestonia, dengan cabang di berbagai bagian Upper Sanctuary.
 
 Gereja ini mengikuti ajaran White Being dan mempunyai peran yang berkaitan dengan kitab suci, kebenaran, serta keadilan. Kedudukan Cardinal dalam Council of Nine Swords setara dengan para raja.
 
@@ -347,11 +347,11 @@ Benua Bebas menempati posisi yang unik karena tidak berada di bawah kepemilikan 
 
 Pengaruh tersebut dapat dibagi menjadi tiga bentuk.
 
-|Institusi|Sumber pengaruh|Hubungan dengan negara|
-|---|---|---|
-|Lion Bank|Modal, pinjaman, pengelolaan kekayaan, logam mulia|Dapat memberikan pembiayaan secara independen.|
-|Calico & Virgo Trading Guild|Pasar, perdagangan, jaringan komersial|Menghubungkan pelaku dagang lintas wilayah.|
-|Aj-Jazekh Citadel|Pengetahuan, kajian dunia, reputasi Maester|Menyediakan pusat pembelajaran dan pengetahuan.|
+| Institusi                    | Sumber pengaruh                                    | Hubungan dengan negara                          |
+| ---------------------------- | -------------------------------------------------- | ----------------------------------------------- |
+| Lion Bank                    | Modal, pinjaman, pengelolaan kekayaan, logam mulia | Dapat memberikan pembiayaan secara independen.  |
+| Calico & Virgo Trading Guild | Pasar, perdagangan, jaringan komersial             | Menghubungkan pelaku dagang lintas wilayah.     |
+| Aj-Jazekh Citadel            | Pengetahuan, kajian dunia, reputasi Maester        | Menyediakan pusat pembelajaran dan pengetahuan. |
 
 Ketiga institusi tersebut tidak perlu memiliki kekuasaan militer yang setara dengan kerajaan untuk menjadi aktor politik penting. Negara yang memerlukan pinjaman, jaringan perdagangan, atau pengetahuan dapat mempunyai alasan kuat untuk menjaga hubungan baik dengan Benua Bebas.
 
