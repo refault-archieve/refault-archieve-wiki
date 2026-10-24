@@ -49,3 +49,8 @@ Welcome to Re:Fault Archive.
     
 -  Craft Visual Novel
 ---
+
+> [!info] OFFICIAL LINKS & MEDIA
+> * 🎬 **YouTube**: [Official Channel](https://www.youtube.com/@ReFaultArchive))
+> * 🎮 **itch.io**: [Play Visual Novel & Other Game](https://refault-archieve.itch.io)
+> * 📚 **Wattpad**: [Read Web Novel](https://www.wattpad.com/user/ReFault_Archieve)
