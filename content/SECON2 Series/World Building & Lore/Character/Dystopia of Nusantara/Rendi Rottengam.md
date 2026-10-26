@@ -1,20 +1,18 @@
 ---
 type: character
-name: Fauzi Arkanastra
+name:
 alias:
-series: Dystophia  of Nusantara
-faction: "[[SCROVIA]]"
+series:
+faction:
 status:
-power: Anti-Newtonian
+power:
 first_appearance:
 tags:
   - character
-  - DoN
+  - secon2
 ---
 
-# {{Fauzi Arkanastra}}
-
-![[wal_fauzi.png|849]]
+# Name
 
 > Ringkasan 1-2 kalimat mengenai karakter.
 
@@ -26,12 +24,26 @@ Deskripsi umum karakter.
 
 ---
 
+# Basic Information
+
+| Attribute   | Value |
+| ----------- | ----- |
+| Full Name   |       |
+| Alias       |       |
+| Age         |       |
+| Gender      |       |
+| Occupation  |       |
+| Affiliation |       |
+| Status      |       |
+
+---
+
+
 # Appearance
 
-## Main Design  
-| Main Design         | Alternate Design      |     |
-| ------------------- | --------------------- | --- |
-| ![[Fauzi.png\|300]] | ![[Fauzi 1.png\|300]] |     |
+| Main Design        | Alternate Design  |     |
+| ------------------ | ----------------- | --- |
+| ![[main.png\|300]] | ![[alt.png\|300]] |     |
 
 Deskripsi visual.
 
@@ -53,7 +65,7 @@ Deskripsi visual.
 
 # Abilities
 
-- [[Anti-Vector]]
+- [[Power Name]]
 
 ---
 
@@ -65,7 +77,7 @@ Ringkasan masa lalu dan kondisi saat ini.
 
 # Relationships
 
-- [[Thompson Siregar]] — mentor
+- [[Character]] — mentor
 - [[Character]] — rival
 - [[Character]] — teman
 

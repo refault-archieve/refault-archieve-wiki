@@ -1,18 +1,18 @@
 ---
 type: character
-name: Thompson Siregar
+name: Freya Damia
 alias:
 series: Dystophia  of Nusantara
-faction: "[[SCROVIA]]"
-status:
-power: "[[Anti-Friction]]"
-first_appearance:
+faction: "[[NullPolar]]"
+status: Active
+power: Anti-Medium
+first_appearance: Chapter 0
 tags:
   - character
-  - DoN
+  - secon2
 ---
 
-# Thompson Siregar
+# Name
 
 > Ringkasan 1-2 kalimat mengenai karakter.
 
@@ -24,11 +24,26 @@ Deskripsi umum karakter.
 
 ---
 
+# Basic Information
+
+| Attribute   | Value |
+| ----------- | ----- |
+| Full Name   |       |
+| Alias       |       |
+| Age         |       |
+| Gender      |       |
+| Occupation  |       |
+| Affiliation |       |
+| Status      |       |
+
+---
+
+
 # Appearance
 
-| Main Design            | Alternate Design             |     |
-| ---------------------- | ---------------------------- | --- |
-| ![[Thompson.png\|300]] | ![[Thompson_Sheet.png\|306]] |     |
+| Main Design               | Alternate Design  |     |
+| ------------------------- | ----------------- | --- |
+| ![[Freya Demia.png\|300]] | ![[alt.png\|300]] |     |
 
 Deskripsi visual.
 
