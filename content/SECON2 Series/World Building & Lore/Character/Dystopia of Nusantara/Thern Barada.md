@@ -1,18 +1,18 @@
 ---
 type: character
-name: Leila Rudomea
+name: Thern Barada
 alias:
 series: Dystophia  of Nusantara
-faction: "[[SCROVIA]]"
-status:
-power: "[[Anti-Acceleration]]"
-first_appearance:
+faction:
+status: Active
+power:
+first_appearance: Chapter 0
 tags:
   - character
-  - DoN
+  - secon2
 ---
 
-# {{title}}
+# Thern Barada
 
 > Ringkasan 1-2 kalimat mengenai karakter.
 
@@ -24,11 +24,26 @@ Deskripsi umum karakter.
 
 ---
 
+# Basic Information
+
+| Attribute   | Value |
+| ----------- | ----- |
+| Full Name   |       |
+| Alias       |       |
+| Age         |       |
+| Gender      |       |
+| Occupation  |       |
+| Affiliation |       |
+| Status      |       |
+
+---
+
+
 # Appearance
 
-| Main Design          | Alternate Design          |     |
-| -------------------- | ------------------------- | --- |
-| !![[Leila.png\|300]] | ![[Leila_Sheet.png\|300]] |     |
+| Main Design                        | Alternate Design  |     |
+| ---------------------------------- | ----------------- | --- |
+| ![[Thern Barada (SMA) A.png\|350]] | ![[alt.png\|300]] |     |
 
 Deskripsi visual.
 
